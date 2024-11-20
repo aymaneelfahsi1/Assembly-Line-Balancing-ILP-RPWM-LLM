@@ -125,5 +125,5 @@ Le code est disponible dans le fichier `llm_approach.py` et utilise un modèle d
 ### 4.4 Comment Utiliser
 
 1. **Fournir une Description Textuelle** : Rédigez une description détaillée des tâches et contraintes de votre ligne d’assemblage.
-2. **Exécuter le Script** : Lancez `llm_approach.py` en passant la description en entrée.
-3. **Obtenir les Données Structurées** : Le script génère les données structurées prêtes à être utilisées avec les méthodes d'équilibrage.
+
+2. **Obtenir les Données Structurées** : Le script génère les données structurées prêtes à être utilisées avec les méthodes d'équilibrage.
