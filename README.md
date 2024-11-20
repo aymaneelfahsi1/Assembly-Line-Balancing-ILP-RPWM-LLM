@@ -20,7 +20,7 @@ Ce projet consiste en une analyse comparative de trois approches différentes po
 - **Amar Serigne Mbaye Sy**
 - **Tanoh Anet Fergus**
 
-*Élèves-ingénieurs 2ème année - Majeure "Modélisation et Industrie"*
+*Élèves-ingénieurs  - Ecole Centrale Casablanca*
 
 ## Encadrants
 
