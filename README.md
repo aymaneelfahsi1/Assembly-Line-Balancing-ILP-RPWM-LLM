@@ -23,8 +23,8 @@ Ce projet consiste en une analyse comparative de trois approches différentes po
 
 ## Encadrants
 
-- **Mr. RIANE Fouad**
-- **Mme. JGHAMOU Afaf**
+- **Pr. RIANE Fouad**
+- **Pr. JGHAMOU Afaf**
 
 ## Année Universitaire
 
