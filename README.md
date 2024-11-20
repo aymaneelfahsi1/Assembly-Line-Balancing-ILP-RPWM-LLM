@@ -14,9 +14,8 @@ Ce projet consiste en une analyse comparative de trois approches différentes po
 3. **Intégration de Modèles de Langage (LLM)** : utilisation de l'intelligence artificielle pour générer automatiquement la structure de la ligne d’assemblage à partir de descriptions textuelles.
 
 ## Auteurs
-
-- **DIA Mohamadou**
 - **EL FAHSI Aymane**
+- **DIA Mohamadou**
 - **Amar Serigne Mbaye Sy**
 - **Tanoh Anet Fergus**
 
