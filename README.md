@@ -127,3 +127,11 @@ Le code est disponible dans le fichier `llm_approach.py` et utilise un modèle d
 1. **Fournir une Description Textuelle** : Rédigez une description détaillée des tâches et contraintes de votre ligne d’assemblage.
 
 2. **Obtenir les Données Structurées** : Le script génère les données structurées prêtes à être utilisées avec les méthodes d'équilibrage.
+
+## 5. References
+
+- **Bongomin O, Mwasiagi JI, Nganyi EO, Nibikora I.** Improvement of garment assembly line efficiency using line balancing technique. *Engineering Reports*. 2020;2:e12157.
+- **Şeyda Topaloğlu Yıldız, Gülseren Karabay.** Balancing The Shirt Production Line Under Different Operational Constraints Using An Integer Programming Model. *TEKSTİL VE KONFEKSİYON*. Vol: 32, No. 4.
+
+---
+
