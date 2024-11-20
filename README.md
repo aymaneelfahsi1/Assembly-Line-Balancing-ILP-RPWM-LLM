@@ -11,7 +11,7 @@ Ce projet consiste en une analyse comparative de trois approches différentes po
 
 1. **Modèle de Programmation Linéaire Entière (PLNE)** : une approche mathématique.
 2. **Méthode du Poids Positionnel Classé (RPWM)** : une procédure algorithmique.
-3. **Approche basée sur les Modèles de Langage (LLM)** : utilisation de l'intelligence artificielle pour générer automatiquement la structure de la ligne d’assemblage à partir de descriptions textuelles.
+3. **Intégration de Modèles de Langage (LLM)** : utilisation de l'intelligence artificielle pour générer automatiquement la structure de la ligne d’assemblage à partir de descriptions textuelles.
 
 ## Auteurs
 
