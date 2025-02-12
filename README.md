@@ -23,8 +23,7 @@ Ce projet consiste en une analyse comparative de trois approches différentes po
 
 ## Encadrants
 
-- **Pr. RIANE Fouad**
-- **Pr. JGHAMOU Afaf**
+- **Prof. RIANE Fouad**, Ecole Centrale Casablanca
 
 ## Année Universitaire
 
